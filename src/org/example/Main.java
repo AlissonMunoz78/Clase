@@ -20,5 +20,7 @@ public class Main {
 
         Procesadores_escritorio proc4= new Procesadores_escritorio();
 
+
+        //Chritian por favor crear dos instancias de and con valores
     }
 }
