@@ -1,6 +1,5 @@
 package org.example;
 
-import procesadores.Procesadores;
 import procesadores.Procesadores_escritorio;
 import procesadores.Procesadores_AMD;
 import procesadores.Procesadores_Intel;
@@ -20,5 +19,7 @@ public class Main {
 
         Procesadores_escritorio proc4= new Procesadores_escritorio();
 
+
+        //Chritian por favor crear dos instancias de and con valores
     }
 }
